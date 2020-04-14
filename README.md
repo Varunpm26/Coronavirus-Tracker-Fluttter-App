@@ -1,7 +1,8 @@
 # Coronavirus-Tracker & Help to fight from Coronavirus-Fluttter-App
 
 Coronavirus Warrior App
-A Flutter project to track & help to fight from coronavirus.
+A Flutter project to track & help to fight from coronavirus
+A Flutter app to track Coronavirus outbreak.
 
 What is Coronavirus Warrior?
 Coronavirus Warrior is a cross-platform mobile app. It is written in Dart using Flutter.
